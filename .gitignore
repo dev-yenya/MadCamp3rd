@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/ODsayAndroidSDK/build/
+/ODsayAndroidSDKSample/build/
+/ODsayAndroidSDKSample/build/intermediates/javac/debug/classes/
