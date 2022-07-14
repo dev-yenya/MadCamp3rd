@@ -3,9 +3,10 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b622519eefd37798166bba3b616703bb/res" />
       <root url="file://$PROJECT_DIR$/ODsayAndroidSDK/build/.transforms/1411478392e1256ce9d83ba94766e010/ODsayAndroidSDK/res" />
-      <root url="file://$PROJECT_DIR$/ODsayAndroidSDK/build/.transforms/a6cafc9e5d6e8bd4c5448e8e87267bc0/ODsayAndroidSDK/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/ODsayAndroidSDK/build/.transforms/a6cafc9e5d6e8bd4c5448e8e87267bc0/ODsayAndroidSDK/res" />
-      <root url="jar://$PROJECT_DIR$/ODsayAndroidSDK/build/.transforms/a6cafc9e5d6e8bd4c5448e8e87267bc0/ODsayAndroidSDK/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/ODsayAndroidSDK/build/.transforms/c9c43dc2dea3cf69917bb9f1deea5917/ODsayAndroidSDK/res" />
+      <root url="file://$PROJECT_DIR$/ODsayAndroidSDK/build/.transforms/c9c43dc2dea3cf69917bb9f1deea5917/ODsayAndroidSDK/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/ODsayAndroidSDK/build/.transforms/c9c43dc2dea3cf69917bb9f1deea5917/ODsayAndroidSDK/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

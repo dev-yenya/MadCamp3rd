@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Sample_ODsaySDKforAndroid.iml" filepath="$PROJECT_DIR$/Sample_ODsaySDKforAndroid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ODsayAndroidSDK/Sample_ODsaySDKforAndroid.ODsayAndroidSDK.iml" filepath="$PROJECT_DIR$/.idea/modules/ODsayAndroidSDK/Sample_ODsaySDKforAndroid.ODsayAndroidSDK.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/Sample_ODsaySDKforAndroid.ODsayAndroidSDKSample.iml" filepath="$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/Sample_ODsaySDKforAndroid.ODsayAndroidSDKSample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/Sample_ODsaySDKforAndroid.ODsayAndroidSDKSample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/Sample_ODsaySDKforAndroid.ODsayAndroidSDKSample.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/Sample_ODsaySDKforAndroid.ODsayAndroidSDKSample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/Sample_ODsaySDKforAndroid.ODsayAndroidSDKSample.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/Sample_ODsaySDKforAndroid.ODsayAndroidSDKSample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/Sample_ODsaySDKforAndroid.ODsayAndroidSDKSample.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MadCamp3rd.iml" filepath="$PROJECT_DIR$/.idea/modules/MadCamp3rd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ODsayAndroidSDK/MadCamp3rd.ODsayAndroidSDK.iml" filepath="$PROJECT_DIR$/.idea/modules/ODsayAndroidSDK/MadCamp3rd.ODsayAndroidSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/MadCamp3rd.ODsayAndroidSDKSample.iml" filepath="$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/MadCamp3rd.ODsayAndroidSDKSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/MadCamp3rd.ODsayAndroidSDKSample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/MadCamp3rd.ODsayAndroidSDKSample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/MadCamp3rd.ODsayAndroidSDKSample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/MadCamp3rd.ODsayAndroidSDKSample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/MadCamp3rd.ODsayAndroidSDKSample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ODsayAndroidSDKSample/MadCamp3rd.ODsayAndroidSDKSample.unitTest.iml" />
     </modules>
   </component>
 </project>
